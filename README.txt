@@ -11,7 +11,7 @@
 ## Classification Algorithms
 ## All of the codes are labeled as follows: "ArchitectureOfNeuralNetwork_ActivationFunction_Formant_Epochs"
 ## Architecture of neural network: Convolution in 1 dimension
-## Activaion Function: ReLU
+## Activation Function: ReLU
 ## Formant: f1 , f2
 ## Epochs: 200 ,  500
 
@@ -28,8 +28,8 @@
 - "vtractz.m" es utilizado en "SNF_Inv.m"
 
 ## Algoritmos de Clasificación
-## Tódos los códigos están nombrados de la siguiente manera: "ArquitecturaRedNeuronal_FunciónActivación_Formante_Epocas"
-## Architecture of neural network: Convolution in 1 dimension
-## Activaion Function: ReLU
-## Formant: f1 , f2
-## Epochs: 200 ,  500
+## Todos los codigos están nombrados de la siguiente manera: "ArquitecturaRedNeuronal_FunciónActivación_Formante_Epocas"
+## Arquitectura de la red neuronaa: Convolution in 1 dimension
+## Funcion de Activacion: ReLU
+## Formantes: f1 , f2
+## Epocas: 200 ,  500
